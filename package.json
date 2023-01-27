@@ -1,0 +1,25 @@
+{
+  "name": "youtube-download",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarooqProProgrammer/Youtube-download.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarooqProProgrammer/Youtube-download/issues"
+  },
+  "homepage": "https://github.com/FarooqProProgrammer/Youtube-download#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.2"
+  }
+}
